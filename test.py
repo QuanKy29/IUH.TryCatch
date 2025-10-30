@@ -36,5 +36,5 @@ if __name__ == "__main__":
 
     # Làm sạch cơ bản
     train_df = clean_data(train_df)
-    print("\n👀 Xem 5 dòng đầu tiên của train:")
+    print("\nXem 5 dòng đầu tiên của train:")
     print(train_df.head())
